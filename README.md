@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-approving debit cards with errors
+-making subscriptions accessables
+-making deposits without a account registered
